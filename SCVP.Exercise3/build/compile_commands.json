@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise3/build",
+  "command": "/usr/bin/c++  -I/opt/systemc/include -g -o CMakeFiles/exercise3.dir/main.cpp.o -c /home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise3/main.cpp",
+  "file": "/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise3/main.cpp",
+  "output": "CMakeFiles/exercise3.dir/main.cpp.o"
+},
+{
+  "directory": "/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise3/build",
+  "command": "/usr/bin/c++  -I/opt/systemc/include -g -o CMakeFiles/exercise3.dir/state_machine.cpp.o -c /home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise3/state_machine.cpp",
+  "file": "/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise3/state_machine.cpp",
+  "output": "CMakeFiles/exercise3.dir/state_machine.cpp.o"
+},
+{
+  "directory": "/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise3/build",
+  "command": "/usr/bin/c++  -I/opt/systemc/include -g -o CMakeFiles/exercise3.dir/stimuli.cpp.o -c /home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise3/stimuli.cpp",
+  "file": "/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise3/stimuli.cpp",
+  "output": "CMakeFiles/exercise3.dir/stimuli.cpp.o"
+}
+]
