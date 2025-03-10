@@ -1,0 +1,3 @@
+/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise2/build/CMakeFiles/exercise2.dir
+/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise2/build/CMakeFiles/edit_cache.dir
+/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise2/build/CMakeFiles/rebuild_cache.dir

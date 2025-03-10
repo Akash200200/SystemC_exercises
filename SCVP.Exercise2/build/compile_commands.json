@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise2/build",
+  "command": "/usr/bin/clang++ -I/opt/systemc/include -g -o CMakeFiles/exercise2.dir/exor_main.cpp.o -c /home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise2/exor_main.cpp",
+  "file": "/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise2/exor_main.cpp",
+  "output": "CMakeFiles/exercise2.dir/exor_main.cpp.o"
+}
+]
