@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise5/build",
+  "command": "/usr/bin/g++ -I/opt/systemc/include -g -o CMakeFiles/exercise5.dir/main.cpp.o -c /home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise5/main.cpp",
+  "file": "/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise5/main.cpp",
+  "output": "CMakeFiles/exercise5.dir/main.cpp.o"
+},
+{
+  "directory": "/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise5/build",
+  "command": "/usr/bin/g++ -I/opt/systemc/include -g -o CMakeFiles/exercise5.dir/kpn.cpp.o -c /home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise5/kpn.cpp",
+  "file": "/home/sbo/Documents/EMECS/2_RPTU/3rd_semester/SCVP/Repo/SCVP.Exercise5/kpn.cpp",
+  "output": "CMakeFiles/exercise5.dir/kpn.cpp.o"
+}
+]
